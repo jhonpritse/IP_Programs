@@ -1,4 +1,4 @@
-package IP.MinutesHourDayConverter;
+package IP.Activty5.MinutesHourDayConverter;
 
 import java.util.Scanner;
 

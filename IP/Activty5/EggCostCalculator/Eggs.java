@@ -1,4 +1,4 @@
-package IP.EggCostCalculator;
+package IP.Activty5.EggCostCalculator;
 
 
 import java.util.Scanner;
